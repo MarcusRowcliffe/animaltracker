@@ -1,6 +1,6 @@
 # Animal Tracker
 
-> A tool for manual tracking and tagging of animals in camera trap images (yay!)
+> A tool for manual tracking and tagging of animals in camera trap images
 
 ## Usage example
 
